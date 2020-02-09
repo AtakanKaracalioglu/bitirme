@@ -1,0 +1,1 @@
+"./GPIO_board.obj" "./main_led_blink.obj" -l"configPkg/linker.cmd" -l"C:/ti/pdk_omapl138_1_0_10/packages/ti/board/lib/lcdkOMAPL138/c674/release/ti.board.ae674" -llibc.a 
